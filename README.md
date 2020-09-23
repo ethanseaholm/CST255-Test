@@ -1,2 +1,2 @@
-# First-CST255-Assignment
-This is the first assignment for CST255
+# CST255-Test
+This is the first test assignment for CST255
